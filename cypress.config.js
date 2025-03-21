@@ -13,5 +13,5 @@ module.exports = defineConfig({
     },
     defaultCommandTimeout: 50000, // comando padrão de tempo limite para não tomar timeout padrão 4000ms
   },
-  projectId: 'your-project',
+  projectId: 'u7vm8i' // usado para conectar com o GitHub Actions no Cypress Cloud
 })
